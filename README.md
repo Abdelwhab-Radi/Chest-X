@@ -1,7 +1,7 @@
 # 🫁 Chest X-Ray Pneumonia Detection — Deep Learning Classifier
 
 > **Graduate Project** · Faculty of Computer Science & Artificial Intelligence  
-> Kaggle Notebook: [chest-Abdoul]([https://www.kaggle.com/code/abdelwhabradi/chest-abdoul/notebook](https://www.kaggle.com/code/abdelwhabradi/chest-abdoul)
+> Kaggle Notebook: [chest-Abdoul](https://www.kaggle.com/code/abdelwhabradi/chest-abdoul/notebook)
 
 ---
 
